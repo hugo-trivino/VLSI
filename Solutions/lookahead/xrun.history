@@ -1,0 +1,4 @@
+s1(05May2019:10:59:01):  xrun cpu32_test.v lookahead_cpu32.v +access+r 
+s2(05May2019:11:45:30):  xrun gscl45nm.v cpu32_test.v lookahead_cpu32.v +access+r 
+s3(05May2019:11:46:51):  xrun gscl45nm.v cpu32_test.v cpu32.vh +access+r 
+s4(05May2019:12:02:38):  xrun gscl45nm.v cpu32_test.v final.v +access+r 

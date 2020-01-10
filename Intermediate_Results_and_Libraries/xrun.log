@@ -1,0 +1,125 @@
+xrun: 18.03-s001: (c) Copyright 1995-2018 Cadence Design Systems, Inc.
+TOOL:	xrun	18.03-s001: Started on May 05, 2019 at 12:04:16 CDT
+xrun
+	gscl45nm.v
+	cpu32_test.v
+	final.v
+	+access+r
+file: final.v
+	module worklib.cpu32:v
+		errors: 0, warnings: 0
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+	Top level design units:
+		AND2X2
+		AOI21X1
+		CLKBUF1
+		CLKBUF2
+		CLKBUF3
+		DFFNEGX1
+		DFFSR
+		FAX1
+		HAX1
+		INVX2
+		LATCH
+		MUX2X1
+		NAND2X1
+		NOR2X1
+		OAI22X1
+		OR2X2
+		TBUFX1
+		stimulus
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.cpu32:v <0x58db8cf7>
+			streams:   0, words:     0
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:               5002      35
+		UDPs:                   524       4
+		Primitives:            9712       6
+		Timing outputs:        5001      19
+		Registers:              528      12
+		Scalar wires:          5671       -
+		Expanded wires:          16       1
+		Always blocks:            1       1
+		Initial blocks:           5       5
+		Cont. assignments:        1      17
+		Pseudo assignments:       2       2
+		Timing checks:         3145     521
+		Simulation timescale:  10ps
+	Writing initial simulation snapshot: worklib.AND2X2:v
+Loading snapshot worklib.AND2X2:v .................... Done
+xcelium> source /apps/cadence/XCELIUM1803/tools/xcelium/files/xmsimrc
+xcelium> run
+    1: pwr=1, pc=  0, npc=  1, code=a000, mem[ 0]<=         0 (loadi)
+    2: pwr=1, pc=  1, npc=  2, code=a101, mem[ 1]<=         1 (loadi)
+    3: pwr=1, pc=  2, npc=  3, code=a231, mem[ 2]<=        49 (loadi)
+    4: pwr=1, pc=  3, npc=  4, code=a305, mem[ 3]<=         5 (loadi)
+    5: pwr=1, pc=  4, npc=  5, code=a600, mem[ 6]<=         0 (loadi)
+    6: pwr=1, pc=  5, npc=  6, code=2420, mem[ 4]<=        49 (aluop)
+    7: pwr=1, pc=  6, npc=  7, code=2530, mem[ 5]<=         5 (aluop)
+    8: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         1 (aluop)
+    9: pwr=1, pc=  8, npc=  9, code=807a, branch to  10
+   10: pwr=1, pc=  9, npc= 10, code=2665, mem[ 6]<=         5 (aluop)
+   11: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=        24 (aluop)
+   12: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=        10 (aluop)
+   13: pwr=1, pc= 12, npc=  7, code=9047, branch to   7
+   14: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         0 (aluop)
+   15: pwr=1, pc=  8, npc= 10, code=807a, branch to  10
+   16: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=        12 (aluop)
+   17: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=        20 (aluop)
+   18: pwr=1, pc= 12, npc=  7, code=9047, branch to   7
+   19: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         0 (aluop)
+   20: pwr=1, pc=  8, npc= 10, code=807a, branch to  10
+   21: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=         6 (aluop)
+   22: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=        40 (aluop)
+   23: pwr=1, pc= 12, npc=  7, code=9047, branch to   7
+   24: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         0 (aluop)
+   25: pwr=1, pc=  8, npc= 10, code=807a, branch to  10
+   26: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=         3 (aluop)
+   27: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=        80 (aluop)
+   28: pwr=1, pc= 12, npc=  7, code=9047, branch to   7
+   29: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         1 (aluop)
+   30: pwr=1, pc=  8, npc=  9, code=807a, branch to  10
+   31: pwr=1, pc=  9, npc= 10, code=2665, mem[ 6]<=        85 (aluop)
+   32: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=         1 (aluop)
+   33: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=       160 (aluop)
+   34: pwr=1, pc= 12, npc=  7, code=9047, branch to   7
+   35: pwr=1, pc=  7, npc=  8, code=4741, mem[ 7]<=         1 (aluop)
+   36: pwr=1, pc=  8, npc=  9, code=807a, branch to  10
+   37: pwr=1, pc=  9, npc= 10, code=2665, mem[ 6]<=       245 (aluop)
+   38: pwr=1, pc= 10, npc= 11, code=1441, mem[ 4]<=         0 (aluop)
+   39: pwr=1, pc= 11, npc= 12, code=0551, mem[ 5]<=       320 (aluop)
+   40: pwr=1, pc= 12, npc= 13, code=9047, branch to   7
+   41: pwr=1, pc= 13, npc= 14, code=2550, mem[ 5]<=       320 (aluop)
+   42: pwr=1, pc= 14, npc= 15, code=2660, mem[ 6]<=       245 (aluop)
+   43: pwr=1, pc= 15, npc= 16, code=2430, mem[ 4]<=         5 (aluop)
+   44: pwr=1, pc= 16, npc= 17, code=2520, mem[ 5]<=        49 (aluop)
+   45: pwr=1, pc= 17, npc= 18, code=4741, mem[ 7]<=         1 (aluop)
+   46: pwr=1, pc= 18, npc= 19, code=8174, branch to  20
+   47: pwr=1, pc= 19, npc= 20, code=3665, mem[ 6]<=       196 (aluop)
+   48: pwr=1, pc= 20, npc= 21, code=1441, mem[ 4]<=         2 (aluop)
+   49: pwr=1, pc= 21, npc= 22, code=0551, mem[ 5]<=        98 (aluop)
+   50: pwr=1, pc= 22, npc= 17, code=9141, branch to  17
+   51: pwr=1, pc= 17, npc= 18, code=4741, mem[ 7]<=         0 (aluop)
+   52: pwr=1, pc= 18, npc= 20, code=8174, branch to  20
+   53: pwr=1, pc= 20, npc= 21, code=1441, mem[ 4]<=         1 (aluop)
+   54: pwr=1, pc= 21, npc= 22, code=0551, mem[ 5]<=       196 (aluop)
+   55: pwr=1, pc= 22, npc= 17, code=9141, branch to  17
+   56: pwr=1, pc= 17, npc= 18, code=4741, mem[ 7]<=         1 (aluop)
+   57: pwr=1, pc= 18, npc= 19, code=8174, branch to  20
+   58: pwr=1, pc= 19, npc= 20, code=3665, mem[ 6]<=         0 (aluop)
+   59: pwr=1, pc= 20, npc= 21, code=1441, mem[ 4]<=         0 (aluop)
+   60: pwr=1, pc= 21, npc= 22, code=0551, mem[ 5]<=       392 (aluop)
+   61: pwr=1, pc= 22, npc= 23, code=9141, branch to  17
+   62: pwr=1, pc= 23, npc= 24, code=2550, mem[ 5]<=       392 (aluop)
+   63: pwr=1, pc= 24, npc= 25, code=2660, mem[ 6]<=         0 (aluop)
+   64: pwr=1, pc= 25, npc= 25, code=ffff, stop detected
+   65: pc= 25, code=ffff, program stopped
+Simulation complete via $finish(1) at time 3274 NS + 0
+./cpu32_test.v:47            $finish;
+xcelium> exit
+TOOL:	xrun	18.03-s001: Exiting on May 05, 2019 at 12:04:18 CDT  (total: 00:00:02)

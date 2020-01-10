@@ -1,0 +1,701 @@
+routeGuideNet clk__L1_N0
+wire 154.565 116.375 151.525 116.375 H 0.5
+wire 201.685 115.995 154.565 115.995 H 0.5
+wire 154.565 115.995 154.565 116.375 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L2_N1
+#Trunk_Term begin
+#Trunk clk__L3_I3 A 167.485 187.625
+#Trunk clk__L2_I1 Y 154.945 115.995
+#Trunk_Term end
+wire 167.485 187.625 161.405 187.625 H 0.5
+wire 161.405 187.625 161.405 157.985 V 0.5
+wire 161.405 157.985 153.425 157.985 H 0.5
+wire 153.425 157.985 153.425 131.195 V 0.5
+wire 154.945 115.995 153.425 115.995 H 0.5
+wire 153.425 115.995 153.425 126.255 V 0.5
+wire 153.425 131.195 153.425 126.255 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L2_N0
+wire 141.645 64.125 137.465 64.125 H 0.5
+wire 137.465 64.125 137.465 47.215 V 0.5
+wire 151.525 83.885 141.645 83.885 H 0.5
+wire 141.645 83.885 141.645 64.125 V 0.5
+wire 151.905 115.995 151.525 115.995 H 0.5
+wire 151.525 115.995 151.525 83.885 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N6
+#Trunk_Term begin
+#Trunk clk__L4_I41 A 199.785 106.495
+#Trunk clk__L3_I6 Y 147.345 125.875
+#Trunk clk__L4_I36 A 94.145 108.585
+#Trunk_Term end
+wire 199.785 106.495 176.985 106.495 H 0.5
+wire 176.985 106.495 154.945 106.495 H 0.5
+wire 154.945 106.495 147.345 106.495 H 0.5
+wire 147.345 106.495 147.345 108.585 V 0.5
+wire 147.345 125.875 147.345 108.585 V 0.5
+wire 134.045 108.585 113.905 108.585 H 0.5
+wire 134.045 108.585 147.345 108.585 H 0.5
+wire 113.905 108.585 94.145 108.585 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N5
+#Trunk_Term begin
+#Trunk clk__L3_I5 Y 153.805 130.815
+#Trunk clk__L4_I30 A 101.745 131.195
+#Trunk clk__L4_I34 A 188.005 131.195
+#Trunk_Term end
+wire 188.005 131.195 165.205 131.195 H 0.5
+wire 165.205 131.195 165.205 133.285 V 0.5
+wire 165.205 133.285 153.805 133.285 H 0.5
+wire 153.805 130.815 153.805 133.285 V 0.5
+wire 140.885 133.285 124.165 133.285 H 0.5
+wire 140.885 133.285 153.805 133.285 H 0.5
+wire 124.165 133.285 101.745 133.285 H 0.5
+wire 101.745 133.285 101.745 131.195 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N4
+#Trunk_Term begin
+#Trunk clk__L4_I24 A 117.325 162.925
+#Trunk clk__L4_I28 A 193.705 155.895
+#Trunk clk__L3_I4 Y 161.785 158.365
+#Trunk_Term end
+wire 193.705 157.985 193.705 155.895 V 0.5
+wire 174.705 157.985 161.785 157.985 H 0.5
+wire 161.785 157.985 161.785 158.365 V 0.5
+wire 174.705 157.985 193.705 157.985 H 0.5
+wire 161.785 158.365 151.145 158.365 H 0.5
+wire 151.145 158.365 151.145 160.835 V 0.5
+wire 151.145 160.835 132.905 160.835 H 0.5
+wire 132.905 160.835 117.325 160.835 H 0.5
+wire 117.325 160.835 117.325 162.925 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N3
+#Trunk_Term begin
+#Trunk clk__L4_I18 A 130.625 192.565
+#Trunk clk__L3_I3 Y 167.865 188.005
+#Trunk clk__L4_I21 A 180.405 190.475
+#Trunk_Term end
+wire 170.525 190.475 167.865 190.475 H 0.5
+wire 170.525 190.475 180.405 190.475 H 0.5
+wire 191.425 190.475 180.405 190.475 H 0.5
+wire 130.625 192.565 150.385 192.565 H 0.5
+wire 150.385 192.565 150.385 190.475 V 0.5
+wire 150.385 190.475 167.865 190.475 H 0.5
+wire 167.865 188.005 167.865 190.475 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N2
+#Trunk_Term begin
+#Trunk clk__L4_I17 A 202.445 47.215
+#Trunk clk__L3_I2 Y 137.845 46.835
+#Trunk clk__L4_I12 A 73.245 44.365
+#Trunk_Term end
+wire 202.445 47.215 180.785 47.215 H 0.5
+wire 180.785 47.215 154.565 47.215 H 0.5
+wire 154.565 47.215 137.845 47.215 H 0.5
+wire 137.845 46.835 137.845 47.215 V 0.5
+wire 129.865 49.305 103.645 49.305 H 0.5
+wire 129.865 49.305 137.845 49.305 H 0.5
+wire 137.845 49.305 137.845 47.215 V 0.5
+wire 103.645 49.305 73.245 49.305 H 0.5
+wire 73.245 49.305 73.245 44.365 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N1
+#Trunk_Term begin
+#Trunk clk__L4_I6 A 83.125 66.975
+#Trunk clk__L4_I9 A 150.385 42.275
+#Trunk clk__L4_I11 A 200.925 64.125
+#Trunk clk__L3_I1 Y 142.025 64.505
+#Trunk_Term end
+wire 150.385 64.505 176.985 64.505 H 0.5
+wire 150.385 64.505 150.385 42.275 V 0.5
+wire 150.385 64.505 142.025 64.505 H 0.5
+wire 83.125 66.975 109.345 66.975 H 0.5
+wire 109.345 66.975 128.345 66.975 H 0.5
+wire 128.345 66.975 142.025 66.975 H 0.5
+wire 142.025 66.975 142.025 64.505 V 0.5
+wire 200.925 64.125 176.985 64.125 H 0.5
+wire 176.985 64.125 176.985 64.505 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L3_N0
+#Trunk_Term begin
+#Trunk clk__L4_I5 A 205.485 83.885
+#Trunk clk__L4_I1 A 123.025 64.125
+#Trunk clk__L4_I0 A 98.325 86.735
+#Trunk clk__L3_I0 Y 151.905 84.265
+#Trunk_Term end
+wire 205.485 83.885 186.865 83.885 H 0.5
+wire 186.865 83.885 186.865 84.265 V 0.5
+wire 151.905 84.265 144.685 84.265 H 0.5
+wire 151.905 84.265 186.865 84.265 H 0.5
+wire 144.685 64.125 123.025 64.125 H 0.5
+wire 144.685 64.125 144.685 84.265 V 0.5
+wire 143.165 86.735 98.325 86.735 H 0.5
+wire 143.165 86.735 144.685 86.735 H 0.5
+wire 144.685 86.735 144.685 84.265 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N41
+#Trunk_Term begin
+#Trunk clk__L4_I41 Y 200.165 106.115
+#Trunk myram/m15/d/d21/q_reg CLK 195.89 106.045
+#Trunk myram/m9/d/d21/q_reg CLK 203.49 104.095
+#Trunk_Term end
+wire 195.89 104.095 197.79 104.095 H 0.5
+wire 195.89 104.095 195.89 106.045 V 0.5
+wire 200.165 104.095 203.49 104.095 H 0.5
+wire 200.165 104.095 200.165 106.115 V 0.5
+wire 200.165 104.095 198.17 104.095 H 0.5
+wire 197.79 104.095 198.17 104.095 H 0.5
+wire 203.49 104.095 204.25 104.095 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N40
+#Trunk_Term begin
+#Trunk myram/m11/d/d21/q_reg CLK 174.23 104.095
+#Trunk clk__L4_I40 Y 177.365 106.115
+#Trunk_Term end
+wire 176.89 104.095 177.365 104.095 H 0.5
+wire 177.365 104.095 177.365 106.115 V 0.5
+wire 176.89 104.095 174.23 104.095 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N39
+#Trunk_Term begin
+#Trunk clk__L4_I39 Y 155.325 106.115
+#Trunk myram/m9/d/d15/q_reg CLK 151.43 109.035
+#Trunk_Term end
+wire 152.57 106.115 151.43 106.115 H 0.5
+wire 151.43 106.115 151.43 109.035 V 0.5
+wire 152.57 106.115 155.325 106.115 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N38
+#Trunk_Term begin
+#Trunk myram/m7/d/d9/q_reg CLK 134.33 106.045
+#Trunk clk__L4_I38 Y 134.425 108.965
+#Trunk_Term end
+wire 134.425 106.045 134.33 106.045 H 0.5
+wire 134.425 108.965 134.425 106.045 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N37
+#Trunk_Term begin
+#Trunk clk__L4_I37 Y 114.285 108.965
+#Trunk myram/m2/d/d6/q_reg CLK 110.77 109.035
+#Trunk_Term end
+wire 118.37 108.965 114.285 108.965 H 0.5
+wire 110.77 109.035 114.285 109.035 H 0.5
+wire 114.285 109.035 114.285 108.965 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N36
+wire 92.91 108.965 92.91 106.045 V 0.5
+wire 86.07 115.925 88.73 115.925 H 0.5
+wire 85.69 104.095 89.11 104.095 H 0.5
+wire 86.07 113.975 86.07 115.925 V 0.5
+wire 86.07 118.915 86.07 115.925 V 0.5
+wire 88.73 115.925 92.15 115.925 H 0.5
+wire 89.11 101.105 89.11 104.095 V 0.5
+wire 89.11 104.095 92.91 104.095 H 0.5
+wire 92.15 115.925 92.91 115.925 H 0.5
+wire 92.91 115.925 92.91 110.985 V 0.5
+wire 92.91 106.045 92.91 104.095 V 0.5
+wire 92.91 110.985 92.91 108.965 V 0.5
+wire 93.29 101.105 93.29 104.095 V 0.5
+wire 94.525 108.965 92.91 108.965 H 0.5
+wire 96.71 109.035 94.525 109.035 H 0.5
+wire 94.525 109.035 94.525 108.965 V 0.5
+wire 101.65 104.095 93.29 104.095 H 0.5
+wire 92.91 104.095 93.29 104.095 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N35
+#Trunk_Term begin
+#Trunk clk__L4_I35 Y 204.725 130.815
+#Trunk myram/m3/d/d21/q_reg CLK 208.05 135.685
+#Trunk myram/m11/d/d22/q_reg CLK 206.91 130.745
+#Trunk_Term end
+wire 205.01 130.815 206.91 130.815 H 0.5
+wire 206.91 130.815 206.91 130.745 V 0.5
+wire 205.01 130.815 205.01 135.685 V 0.5
+wire 205.01 130.815 204.725 130.815 H 0.5
+wire 208.05 140.625 208.05 135.685 V 0.5
+wire 205.01 135.685 208.05 135.685 H 0.5
+wire 206.91 130.745 209.19 130.745 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N34
+#Trunk_Term begin
+#Trunk clk__L4_I34 Y 188.385 130.815
+#Trunk myram/m7/d/d18/q_reg CLK 187.91 128.795
+#Trunk myram/m12/d/d29/q_reg CLK 186.39 130.745
+#Trunk_Term end
+wire 187.91 130.745 188.385 130.745 H 0.5
+wire 187.91 130.745 187.91 128.795 V 0.5
+wire 187.91 130.745 186.39 130.745 H 0.5
+wire 188.385 130.815 188.385 130.745 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N33
+#Trunk_Term begin
+#Trunk myram/m5/d/d14/q_reg CLK 160.93 145.565
+#Trunk myram/m3/d/d5/q_reg CLK 169.29 125.805
+#Trunk clk__L4_I33 Y 165.585 133.665
+#Trunk_Term end
+wire 169.29 128.795 167.77 128.795 H 0.5
+wire 167.77 128.795 167.77 133.665 V 0.5
+wire 169.29 128.795 169.29 125.805 V 0.5
+wire 165.585 133.665 160.93 133.665 H 0.5
+wire 160.93 133.665 160.93 138.675 V 0.5
+wire 165.585 133.665 167.77 133.665 H 0.5
+wire 160.93 145.565 160.93 138.675 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N32
+#Trunk_Term begin
+#Trunk clk__L4_I32 Y 141.265 133.665
+#Trunk myram/m11/d/d18/q_reg CLK 149.91 138.675
+#Trunk myram/m0/d/d16/q_reg CLK 131.67 128.795
+#Trunk_Term end
+wire 149.91 138.675 148.39 138.675 H 0.5
+wire 148.39 138.675 148.39 145.565 V 0.5
+wire 148.39 145.565 140.03 145.565 H 0.5
+wire 141.265 133.665 139.27 133.665 H 0.5
+wire 139.27 133.665 139.27 133.735 V 0.5
+wire 140.03 145.565 139.65 145.565 H 0.5
+wire 139.65 145.565 139.65 143.615 V 0.5
+wire 139.65 140.625 139.27 140.625 H 0.5
+wire 139.27 140.625 139.27 138.675 V 0.5
+wire 139.65 140.625 139.65 143.615 V 0.5
+wire 139.27 138.675 139.27 133.735 V 0.5
+wire 133.95 133.735 131.67 133.735 H 0.5
+wire 131.67 133.735 131.67 128.795 V 0.5
+wire 133.95 133.735 139.27 133.735 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N31
+#Trunk_Term begin
+#Trunk clk__L4_I31 Y 124.545 133.665
+#Trunk myram/m7/d/d16/q_reg CLK 126.73 130.745
+#Trunk_Term end
+wire 126.73 130.745 124.545 130.745 H 0.5
+wire 124.545 130.745 124.545 133.665 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N30
+#Trunk_Term begin
+#Trunk myram/m6/d/d31/q_reg CLK 85.69 123.855
+#Trunk clk__L4_I30 Y 102.125 130.815
+#Trunk myram/m6/d/d15/q_reg CLK 115.71 125.805
+#Trunk_Term end
+wire 117.61 128.795 115.71 128.795 H 0.5
+wire 115.71 128.795 115.71 125.805 V 0.5
+wire 105.07 130.745 102.125 130.745 H 0.5
+wire 102.125 130.745 102.125 130.815 V 0.5
+wire 105.07 130.745 105.07 128.795 V 0.5
+wire 105.07 125.805 105.07 128.795 V 0.5
+wire 105.07 125.805 102.41 125.805 H 0.5
+wire 105.07 125.805 110.77 125.805 H 0.5
+wire 85.69 123.855 102.41 123.855 H 0.5
+wire 102.41 123.855 102.41 125.805 V 0.5
+wire 115.71 125.805 110.77 125.805 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N29
+#Trunk_Term begin
+#Trunk myram/m1/d/d31/q_reg CLK 209.19 155.445
+#Trunk clk__L4_I29 Y 206.245 158.365
+#Trunk_Term end
+wire 206.245 155.445 206.245 158.365 V 0.5
+wire 206.245 155.445 209.19 155.445 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N28
+#Trunk_Term begin
+#Trunk myram/m13/d/d29/q_reg CLK 192.09 155.445
+#Trunk clk__L4_I28 Y 194.085 155.515
+#Trunk_Term end
+wire 192.09 155.445 194.085 155.445 H 0.5
+wire 194.085 155.445 194.085 155.515 V 0.5
+wire 194.085 155.515 194.085 160.385 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N27
+#Trunk_Term begin
+#Trunk myram/m11/d/d14/q_reg CLK 166.63 155.445
+#Trunk clk__L4_I27 Y 175.085 158.365
+#Trunk_Term end
+wire 175.085 158.365 171.57 158.365 H 0.5
+wire 171.57 155.445 166.63 155.445 H 0.5
+wire 171.57 155.445 171.57 158.365 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N26
+#Trunk_Term begin
+#Trunk myram/m7/d/d1/q_reg CLK 155.23 155.445
+#Trunk clk__L4_I26 Y 151.525 160.455
+#Trunk_Term end
+wire 155.23 153.495 155.23 155.445 V 0.5
+wire 151.05 163.375 151.525 163.375 H 0.5
+wire 151.525 163.375 151.525 160.455 V 0.5
+wire 151.525 160.455 155.23 160.455 H 0.5
+wire 155.23 160.455 155.23 160.385 V 0.5
+wire 155.23 155.445 155.23 160.385 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N25
+#Trunk_Term begin
+#Trunk clk__L4_I25 Y 133.285 160.455
+#Trunk myram/m5/d/d13/q_reg CLK 135.47 160.385
+#Trunk myram/m13/d/d12/q_reg CLK 134.71 165.325
+#Trunk_Term end
+wire 135.47 160.385 134.71 160.385 H 0.5
+wire 134.71 160.385 134.71 160.455 V 0.5
+wire 135.47 160.385 135.47 155.445 V 0.5
+wire 134.71 165.325 134.71 160.455 V 0.5
+wire 133.285 160.455 134.71 160.455 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N24
+#Trunk_Term begin
+#Trunk clk__L4_I24 Y 117.705 163.305
+#Trunk myram/m10/d/d2/q_reg CLK 110.77 153.495
+#Trunk myram/m4/d/d0/q_reg CLK 119.89 163.375
+#Trunk_Term end
+wire 119.89 163.375 117.99 163.375 H 0.5
+wire 117.99 163.375 117.99 163.305 V 0.5
+wire 119.89 163.375 122.55 163.375 H 0.5
+wire 117.99 155.445 117.99 153.495 V 0.5
+wire 117.99 155.445 117.99 163.305 V 0.5
+wire 117.705 163.305 117.99 163.305 H 0.5
+wire 110.77 153.495 117.99 153.495 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N23
+#Trunk_Term begin
+#Trunk myram/m0/d/d0/q_reg CLK 198.55 180.145
+#Trunk mypc/d/d6/q_reg CLK 207.67 199.905
+#Trunk clk__L4_I23 Y 203.965 190.095
+#Trunk_Term end
+wire 208.05 193.015 208.05 194.965 V 0.5
+wire 208.05 193.015 203.965 193.015 H 0.5
+wire 203.965 193.015 203.965 190.095 V 0.5
+wire 198.55 188.075 198.55 180.145 V 0.5
+wire 198.55 188.075 203.965 188.075 H 0.5
+wire 203.965 188.075 203.965 190.095 V 0.5
+wire 207.67 199.905 208.05 199.905 H 0.5
+wire 208.05 199.905 208.05 194.965 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N22
+wire 192.85 183.135 192.85 183.065 V 0.5
+wire 190.95 185.085 192.85 185.085 H 0.5
+wire 184.87 194.965 187.53 194.965 H 0.5
+wire 185.63 175.205 187.53 175.205 H 0.5
+wire 187.53 175.205 187.53 178.195 V 0.5
+wire 187.53 178.195 192.85 178.195 H 0.5
+wire 187.53 194.965 190.57 194.965 H 0.5
+wire 190.57 194.965 190.57 193.015 V 0.5
+wire 187.91 185.085 190.95 185.085 H 0.5
+wire 190.57 193.015 190.95 193.015 H 0.5
+wire 190.95 193.015 190.95 188.075 V 0.5
+wire 190.95 188.075 190.95 185.085 V 0.5
+wire 191.805 183.065 192.85 183.065 H 0.5
+wire 192.85 180.145 192.85 178.195 V 0.5
+wire 192.85 185.085 192.85 183.135 V 0.5
+wire 193.23 178.195 192.85 178.195 H 0.5
+wire 195.51 183.135 192.85 183.135 H 0.5
+wire 196.27 173.255 193.23 173.255 H 0.5
+wire 193.23 173.255 193.23 178.195 V 0.5
+wire 192.85 183.065 192.85 180.145 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N21
+#Trunk_Term begin
+#Trunk clk__L4_I21 Y 180.785 190.095
+#Trunk myram/m5/d/d6/q_reg CLK 181.83 194.965
+#Trunk_Term end
+wire 180.785 193.015 181.83 193.015 H 0.5
+wire 180.785 193.015 180.785 190.095 V 0.5
+wire 181.83 194.965 181.83 199.905 V 0.5
+wire 181.83 194.965 181.83 193.015 V 0.5
+wire 180.785 190.095 180.785 190.025 V 0.5
+wire 180.31 188.075 180.785 188.075 H 0.5
+wire 180.785 188.075 180.785 190.025 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N20
+#Trunk_Term begin
+#Trunk myram/m3/d/d0/q_reg CLK 166.25 194.965
+#Trunk myram/m11/d/d2/q_reg CLK 173.09 197.955
+#Trunk clk__L4_I20 Y 170.905 195.035
+#Trunk_Term end
+wire 173.09 195.035 173.09 197.955 V 0.5
+wire 173.09 195.035 170.905 195.035 H 0.5
+wire 166.25 194.965 170.905 194.965 H 0.5
+wire 170.905 194.965 170.905 195.035 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N19
+#Trunk_Term begin
+#Trunk myram/m15/d/d13/q_reg CLK 146.49 178.195
+#Trunk myram/m13/d/d2/q_reg CLK 155.99 202.895
+#Trunk clk__L4_I19 Y 150.765 190.095
+#Trunk_Term end
+wire 155.99 207.835 155.99 202.895 V 0.5
+wire 150.765 194.965 150.765 190.095 V 0.5
+wire 150.765 194.965 153.33 194.965 H 0.5
+wire 146.49 178.195 150.765 178.195 H 0.5
+wire 150.765 178.195 150.765 190.095 V 0.5
+wire 153.33 194.965 155.99 194.965 H 0.5
+wire 155.99 202.895 155.99 194.965 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N18
+#Trunk_Term begin
+#Trunk myram/m12/d/d13/q_reg CLK 129.01 194.965
+#Trunk clk__L4_I18 Y 131.005 192.945
+#Trunk myram/m12/d/d12/q_reg CLK 126.73 193.015
+#Trunk_Term end
+wire 131.005 192.945 129.01 192.945 H 0.5
+wire 129.01 192.945 129.01 193.015 V 0.5
+wire 129.01 194.965 129.01 207.835 V 0.5
+wire 129.01 194.965 129.01 193.015 V 0.5
+wire 126.73 193.015 129.01 193.015 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N17
+wire 196.27 41.825 199.31 41.825 H 0.5
+wire 197.03 51.705 197.03 49.755 V 0.5
+wire 193.99 51.705 197.03 51.705 H 0.5
+wire 194.75 41.825 196.27 41.825 H 0.5
+wire 196.27 46.765 196.27 41.825 V 0.5
+wire 197.03 54.695 197.03 51.705 V 0.5
+wire 198.55 49.755 197.03 49.755 H 0.5
+wire 199.31 41.825 203.11 41.825 H 0.5
+wire 202.825 46.835 205.01 46.835 H 0.5
+wire 203.11 41.825 205.01 41.825 H 0.5
+wire 205.01 41.825 205.01 44.815 V 0.5
+wire 205.01 44.815 205.01 46.765 V 0.5
+wire 205.01 46.765 205.01 46.835 V 0.5
+wire 205.39 49.755 205.01 49.755 H 0.5
+wire 205.01 49.755 205.01 46.835 V 0.5
+wire 205.77 54.695 205.39 54.695 H 0.5
+wire 205.39 54.695 205.39 49.755 V 0.5
+wire 209.19 44.815 205.01 44.815 H 0.5
+wire 209.19 54.695 205.77 54.695 H 0.5
+wire 197.03 49.755 196.27 49.755 H 0.5
+wire 196.27 49.755 196.27 46.765 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N16
+#Trunk_Term begin
+#Trunk clk__L4_I16 Y 181.165 46.835
+#Trunk myram/m5/d/d27/q_reg CLK 190.57 54.695
+#Trunk myram/m12/d/d30/q_reg CLK 173.85 51.705
+#Trunk_Term end
+wire 190.57 54.695 183.73 54.695 H 0.5
+wire 183.73 54.695 183.35 54.695 H 0.5
+wire 181.165 46.835 179.17 46.835 H 0.5
+wire 178.03 54.695 177.65 54.695 H 0.5
+wire 177.65 54.695 177.65 51.705 V 0.5
+wire 178.03 54.695 183.35 54.695 H 0.5
+wire 177.65 49.755 179.17 49.755 H 0.5
+wire 179.17 49.755 179.17 46.835 V 0.5
+wire 177.65 49.755 177.65 51.705 V 0.5
+wire 173.85 51.705 172.33 51.705 H 0.5
+wire 173.85 51.705 177.65 51.705 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N15
+#Trunk_Term begin
+#Trunk clk__L4_I15 Y 154.945 46.835
+#Trunk myram/m14/d/d24/q_reg CLK 153.71 49.755
+#Trunk myram/m3/d/d24/q_reg CLK 152.95 46.765
+#Trunk_Term end
+wire 153.71 46.835 154.945 46.835 H 0.5
+wire 153.71 46.835 153.71 49.755 V 0.5
+wire 153.71 46.835 152.95 46.835 H 0.5
+wire 152.95 46.835 152.95 46.765 V 0.5
+wire 155.61 49.755 153.71 49.755 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N14
+#Trunk_Term begin
+#Trunk clk__L4_I14 Y 130.245 49.685
+#Trunk myram/m3/d/d10/q_reg CLK 128.25 44.815
+#Trunk_Term end
+wire 132.43 46.765 131.67 46.765 H 0.5
+wire 131.67 46.765 131.67 44.815 V 0.5
+wire 132.43 46.765 132.43 49.685 V 0.5
+wire 130.245 49.685 132.43 49.685 H 0.5
+wire 128.25 44.815 131.67 44.815 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N13
+wire 116.85 41.825 115.71 41.825 H 0.5
+wire 116.47 51.705 116.47 46.765 V 0.5
+wire 115.71 44.815 116.47 44.815 H 0.5
+wire 116.47 44.815 116.47 46.765 V 0.5
+wire 111.53 41.825 115.71 41.825 H 0.5
+wire 104.025 49.685 97.47 49.685 H 0.5
+wire 103.93 41.825 111.53 41.825 H 0.5
+wire 97.85 41.825 103.93 41.825 H 0.5
+wire 97.47 56.645 97.47 49.685 V 0.5
+wire 94.05 41.825 97.85 41.825 H 0.5
+wire 93.67 46.765 93.67 41.825 V 0.5
+wire 91.39 41.825 93.67 41.825 H 0.5
+wire 88.73 46.765 93.67 46.765 H 0.5
+wire 116.47 46.765 118.37 46.765 H 0.5
+wire 97.47 49.685 93.67 49.685 H 0.5
+wire 93.67 49.685 93.67 46.765 V 0.5
+wire 115.71 41.825 115.71 44.815 V 0.5
+wire 93.67 41.825 94.05 41.825 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N12
+wire 86.07 46.765 86.07 44.815 V 0.5
+wire 81.13 44.815 86.07 44.815 H 0.5
+wire 79.61 46.765 79.61 44.815 V 0.5
+wire 75.81 44.815 79.61 44.815 H 0.5
+wire 75.05 41.825 75.05 44.745 V 0.5
+wire 73.625 44.745 75.05 44.745 H 0.5
+wire 70.49 41.825 70.49 44.745 V 0.5
+wire 70.11 44.815 70.49 44.815 H 0.5
+wire 70.49 44.815 70.49 44.745 V 0.5
+wire 69.35 46.765 69.35 44.815 V 0.5
+wire 67.45 44.815 69.35 44.815 H 0.5
+wire 64.79 44.815 67.45 44.815 H 0.5
+wire 60.61 41.825 64.79 41.825 H 0.5
+wire 64.79 41.825 64.79 44.815 V 0.5
+wire 86.07 44.815 86.45 44.815 H 0.5
+wire 86.45 44.815 86.45 41.825 V 0.5
+wire 79.61 44.815 81.13 44.815 H 0.5
+wire 75.05 44.745 75.81 44.745 H 0.5
+wire 75.81 44.745 75.81 44.815 V 0.5
+wire 69.35 44.815 70.11 44.815 H 0.5
+wire 70.49 44.745 73.625 44.745 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N11
+#Trunk_Term begin
+#Trunk myram/m9/d/d26/q_reg CLK 206.53 64.575
+#Trunk clk__L4_I11 Y 201.305 64.505
+#Trunk_Term end
+wire 205.01 64.505 206.53 64.505 H 0.5
+wire 206.53 64.505 206.53 64.575 V 0.5
+wire 201.305 64.505 205.01 64.505 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N10
+#Trunk_Term begin
+#Trunk myram/m13/d/d27/q_reg CLK 176.13 71.465
+#Trunk myram/m3/d/d27/q_reg CLK 179.93 61.585
+#Trunk clk__L4_I10 Y 177.365 66.595
+#Trunk_Term end
+wire 179.93 61.585 178.03 61.585 H 0.5
+wire 178.03 61.585 178.03 64.575 V 0.5
+wire 178.03 64.575 177.365 64.575 H 0.5
+wire 177.365 66.595 177.365 64.575 V 0.5
+wire 177.365 66.595 177.365 71.465 V 0.5
+wire 176.13 71.465 166.25 71.465 H 0.5
+wire 176.13 71.465 177.365 71.465 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N9
+#Trunk_Term begin
+#Trunk clk__L4_I9 Y 150.765 41.895
+#Trunk myram/m7/d/d19/q_reg CLK 142.69 59.635
+#Trunk myram/m0/d/d11/q_reg CLK 149.91 61.585
+#Trunk_Term end
+wire 150.67 61.585 149.91 61.585 H 0.5
+wire 150.67 61.585 150.67 59.635 V 0.5
+wire 151.81 66.525 149.91 66.525 H 0.5
+wire 149.91 66.525 149.91 64.575 V 0.5
+wire 142.69 59.635 150.67 59.635 H 0.5
+wire 149.91 61.585 149.91 64.575 V 0.5
+wire 150.67 59.635 150.765 59.635 H 0.5
+wire 150.765 59.635 150.765 41.895 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N8
+#Trunk_Term begin
+#Trunk clk__L4_I8 Y 128.725 66.595
+#Trunk myram/m13/d/d17/q_reg CLK 129.01 69.515
+#Trunk_Term end
+wire 129.01 69.515 128.725 69.515 H 0.5
+wire 128.725 69.515 128.725 66.595 V 0.5
+wire 129.01 69.515 129.01 71.465 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N7
+#Trunk_Term begin
+#Trunk clk__L4_I7 Y 109.725 66.595
+#Trunk myram/m10/d/d20/q_reg CLK 110.77 61.585
+#Trunk_Term end
+wire 109.725 66.595 109.725 61.585 V 0.5
+wire 110.77 61.585 109.725 61.585 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N6
+#Trunk_Term begin
+#Trunk clk__L4_I6 Y 83.505 66.595
+#Trunk myram/m6/d/d29/q_reg CLK 80.75 71.465
+#Trunk_Term end
+wire 84.55 71.465 84.55 66.595 V 0.5
+wire 84.55 71.465 80.75 71.465 H 0.5
+wire 83.505 66.595 84.55 66.595 H 0.5
+wire 80.75 71.465 75.43 71.465 H 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N5
+#Trunk_Term begin
+#Trunk clk__L4_I5 Y 205.865 84.265
+#Trunk myram/m12/d/d20/q_reg CLK 206.53 86.285
+#Trunk_Term end
+wire 206.53 86.285 206.53 84.335 V 0.5
+wire 206.53 86.285 206.53 89.275 V 0.5
+wire 205.865 84.265 206.53 84.265 H 0.5
+wire 206.53 84.265 206.53 84.335 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N4
+#Trunk_Term begin
+#Trunk clk__L4_I4 Y 187.245 86.355
+#Trunk myram/m8/d/d25/q_reg CLK 191.33 79.395
+#Trunk_Term end
+wire 193.99 86.355 187.245 86.355 H 0.5
+wire 193.99 86.355 193.99 81.345 V 0.5
+wire 187.245 86.355 181.83 86.355 H 0.5
+wire 181.83 86.355 181.83 91.225 V 0.5
+wire 191.33 79.395 193.99 79.395 H 0.5
+wire 193.99 79.395 193.99 81.345 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N3
+#Trunk_Term begin
+#Trunk clk__L4_I3 Y 145.065 64.505
+#Trunk myram/m9/d/d11/q_reg CLK 159.41 94.215
+#Trunk myram/m13/d/d8/q_reg CLK 162.45 81.345
+#Trunk_Term end
+wire 159.41 89.275 158.27 89.275 H 0.5
+wire 158.27 89.275 158.27 86.285 V 0.5
+wire 159.41 89.275 159.41 94.215 V 0.5
+wire 158.27 81.345 162.45 81.345 H 0.5
+wire 158.27 81.345 145.065 81.345 H 0.5
+wire 145.065 81.345 145.065 64.505 V 0.5
+wire 158.27 81.345 158.27 86.285 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N2
+wire 139.65 84.335 142.69 84.335 H 0.5
+wire 136.23 84.335 138.13 84.335 H 0.5
+wire 136.99 91.225 136.23 91.225 H 0.5
+wire 136.23 91.225 136.23 89.275 V 0.5
+wire 133.95 84.335 136.23 84.335 H 0.5
+wire 135.09 89.275 136.23 89.275 H 0.5
+wire 136.23 86.285 136.23 84.335 V 0.5
+wire 136.99 94.215 136.99 91.225 V 0.5
+wire 138.13 84.335 139.65 84.335 H 0.5
+wire 139.65 79.395 139.65 84.335 V 0.5
+wire 140.41 91.225 136.99 91.225 H 0.5
+wire 142.69 84.335 143.545 84.335 H 0.5
+wire 143.545 86.355 143.545 84.335 V 0.5
+wire 144.59 91.225 140.41 91.225 H 0.5
+wire 148.39 84.335 143.545 84.335 H 0.5
+wire 148.39 91.225 144.59 91.225 H 0.5
+wire 151.05 91.225 148.39 91.225 H 0.5
+wire 153.33 86.285 148.39 86.285 H 0.5
+wire 148.39 86.285 148.39 84.335 V 0.5
+wire 136.23 89.275 136.23 86.285 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N1
+#Trunk_Term begin
+#Trunk clk__L4_I1 Y 123.405 64.505
+#Trunk myram/m1/d/d9/q_reg CLK 123.69 94.215
+#Trunk_Term end
+wire 124.83 79.395 123.405 79.395 H 0.5
+wire 124.83 79.395 124.83 81.345 V 0.5
+wire 123.69 94.215 123.69 84.335 V 0.5
+wire 123.69 84.335 123.69 81.345 V 0.5
+wire 123.69 81.345 124.83 81.345 H 0.5
+wire 123.405 64.505 123.405 79.395 V 0.5
+endRouteGuideNet
+routeGuideNet clk__L4_N0
+#Trunk_Term begin
+#Trunk myram/m4/d/d21/q_reg CLK 83.03 91.225
+#Trunk myram/m2/d/d16/q_reg CLK 101.65 86.285
+#Trunk clk__L4_I0 Y 98.705 86.355
+#Trunk_Term end
+wire 101.65 86.355 101.65 86.285 V 0.5
+wire 101.65 86.355 98.705 86.355 H 0.5
+wire 92.15 86.355 91.77 86.355 H 0.5
+wire 91.77 86.355 91.77 86.285 V 0.5
+wire 92.15 86.355 98.705 86.355 H 0.5
+wire 83.03 91.225 83.03 84.335 V 0.5
+wire 86.45 84.335 83.03 84.335 H 0.5
+wire 86.45 84.335 91.77 84.335 H 0.5
+wire 91.77 84.335 91.77 86.285 V 0.5
+wire 101.65 86.285 103.17 86.285 H 0.5
+endRouteGuideNet

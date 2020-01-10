@@ -1,0 +1,14 @@
+loadi @0, 153;
+loadi @1, 3;
+loadi @2, 51;
+loadi @3, 12;
+loadi @4, 5;
+loadi @5, 38;
+loadi @6, 96;
+div @7, @0, @1;
+div @8, @0, @2;
+div @9, @0, @3;
+div @10, @0, @4;
+div @11, @0, @5;
+div @12, @0, @6;
+stop ;
