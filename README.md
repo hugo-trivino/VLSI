@@ -6,9 +6,9 @@ made necessary to implement a different type of adder. In this case I implemente
 In this project I used **Verilog** (you can look into the computer organization repository to see VHDL)
 and **CADENCE** for synthesis. I used ESP to do the formal equivalence, DRC and LVS for rules verifications and mapping to schematic.
 
-## I wrote a simple assembler in python ( **`convert.py`** )to turn this specific assembly language into hex machine code.
-## The `solution` folder has the `basic`, `divider`, and `lookahead' solutions for this project.
-## The `intermediate_results_and_Libraries` have all sample documents produced by the synthesis process.
+### I wrote a simple assembler in python ( **`convert.py`** )to turn this specific assembly language into hex machine code.
+### The `solution` folder has the `basic`, `divider`, and `lookahead` solutions for this project.
+### The `intermediate_results_and_Libraries` have all sample documents produced by the synthesis process.
 
 ## See `final_report.pdf` for more details.
 
